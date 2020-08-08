@@ -4,4 +4,8 @@ This program calculates APR rates using Newton-Ralphson method to deal with roun
 
 The user enters three of the four variables listed and the four variable is calculated when the button is clicked. The client did not allow the variables to be spelled out as explicitly as I would have liked. But, this screen shot shows the application. 
 
+
+
+![APR Application](https://raw.githubusercontent.com/heathermortensen/APRCalculator/master/images/screenshot.png)
+
  
