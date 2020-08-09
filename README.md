@@ -9,5 +9,7 @@ The user enters three of the four variables listed and the four variable is calc
 ![APR Application](https://raw.githubusercontent.com/heathermortensen/APRCalculator/master/images/screenshot.png)
 
 - [ ]  Finish writing this file. Until then, here's the UML I had in my records...
+- [ ]  Write something about how the project requirements conflicted with the math being accurate
+- [ ]  Check if this is actually the final version of this code
 
 ![UML](https://raw.githubusercontent.com/heathermortensen/APRCalculator/master/images/UMLForAPI.png)
